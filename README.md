@@ -29,6 +29,9 @@ b=temp
 print("Swapped values are: {} {}".format(a,b))
 
 ~~~
+## OUTPUT :
+![image](https://github.com/Sajith7862/Swapping-two-values/assets/145972360/70a31ef4-a9a8-4402-936c-002db9bdf94b)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
